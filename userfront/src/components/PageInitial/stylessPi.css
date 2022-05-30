@@ -1,0 +1,66 @@
+h1 {
+	font-size: 58px;
+	font-weight: 500;
+	text-align: center;
+	margin-bottom: 80px;
+	text-transform: uppercase;
+	color: #ffffff;
+	border: 5px solid #247549;
+	padding: 5px 10px;
+	display: inline-block;
+}
+h3 {
+	font-size: 20px;
+	font-weight: 500;
+	text-align: center;
+	margin-bottom: 80px;
+	text-transform: uppercase;
+	color: #ffffff;
+	border: 5px  #b601ce;
+	padding: 5px 10px;
+	display: inline-block;
+}
+p{
+	font-size: 20px;
+	font-weight: 500;
+	text-align: center;
+	margin-bottom: 10px;
+	text-transform: uppercase;
+	color: #ffffff;
+	padding: 5px 10px;
+	display: inline-block;
+}
+.Containerp{
+	background:#141414;
+	width: 1117px;
+	margin: auto;
+	padding: 100px 0;
+	display: flex;
+	flex-direction: column;
+	align-items: center;
+	justify-content: center;
+  	background-image: url(../images/bbb.jpg);
+}
+.Containerr{
+	background:#247549;
+	width: 1000px;
+	margin: auto;
+	padding: 100px 0;
+	display: flex;
+	flex-direction: column;
+	align-items: center;
+	justify-content: center;
+  	
+}
+.Containeri{
+	background:#247549;
+	width: 1000px;
+	height: 10px;
+	margin: auto;
+	padding: 40px 0;
+	display: flex;
+	flex-direction: column;
+	align-items: center;
+	justify-content: center;
+	background-image: url(../images/bingo-options.png);
+}
